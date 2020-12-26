@@ -32,3 +32,9 @@
 
 * 스트림을 이용하기 위해서는 먼저 생성을 해야 합니다. 스트림은 배열 또는 컬렉션 인스턴스를 이용해서
   생성할 수 있습니다. 배열 다음과 같이 Arrays.stream 메소드를 사용합니다.
+  
+1 String[] arr = new String[]{"a", "b", "c"};
+
+2 Stream<String> stream = Arrays.stream(arr);
+
+3 Stream<String> streamOfArrayPart = Arrays.stream(arr, 1, 3 ); // 1 ~ 2 요소 [b, c]
