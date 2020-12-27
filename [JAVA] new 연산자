@@ -1,9 +1,8 @@
 # JAVA // new 연산자
 
 ### new 연산자
-<div>
 <img width="240" alt="11" src="https://user-images.githubusercontent.com/59136156/103175170-5786ed80-48ab-11eb-889b-d949dd082337.png">
-</div>
+
 
 * 한 줄밖에 안되는 코드이지만 여기에는 많은 내용들이 함축되어 있다. 
   인스턴스(객체)를 생성할 때 사용하는 코드이며 객체 변수가 실제
@@ -15,6 +14,5 @@
   인스턴스를 핸들하기 위해서는 new 연산자를 통해 참조값을 저장한 객체로만 접근이 가능하다.
   정리하면 아래와 같다
   
-<div>
 <img width="551" alt="22" src="https://user-images.githubusercontent.com/59136156/103175171-58b81a80-48ab-11eb-8833-87b5fcea02b7.png">
-</div>
+
